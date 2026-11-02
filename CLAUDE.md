@@ -15,9 +15,10 @@ El diseño narrativo y el lore viven en un proyecto de claude.ai, no en este rep
 ## Sobre mí
 
 - Es mi primer juego y trabajo solo.
-- Mi experiencia programando: soy programador web. **Ninguna experiencia** en desarrollo de videojuegos ni en Godot.
+- Mi experiencia programando: soy programador web (React, Angular, Next.js y algo de Java con Spring Boot). **Ninguna experiencia** en desarrollo de videojuegos ni en Godot.
 - Cuando aparezca un concepto propio de Godot o de videojuegos (nodos, escenas, señales, `_process`, Resources, hit-stop…), explícalo la primera vez y, si ayuda, compáralo con algo del mundo web (por ejemplo: señales ≈ eventos/listeners, escenas ≈ componentes, Resources ≈ archivos de configuración tipados).
 - Explícame qué haces y por qué, en lenguaje simple.
+- Quiero que tú escribas todo el código. Si necesitas que instale o configure algo (en mi equipo o en este entorno), dímelo con pasos concretos.
 - Al terminar cualquier cambio, dime exactamente cómo probarlo en el editor de Godot: qué escena abrir, qué pulsar y qué debería pasar.
 
 ## Stack

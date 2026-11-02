@@ -1,0 +1,13 @@
+# Caché e importaciones de Godot 4 (se regeneran solos al abrir el proyecto)
+.godot/
+
+# Exportaciones del juego
+/build/
+/export/
+*.tmp
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
