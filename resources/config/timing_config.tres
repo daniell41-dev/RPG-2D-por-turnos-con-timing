@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="TimingConfig" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/data/timing_config.gd" id="1_config"]
+
+[resource]
+script = ExtResource("1_config")
+ventana_perfecto_ataque_ms = 60.0
+ventana_bien_ataque_ms = 140.0
+duracion_cierre_ataque_ms = 600.0
+ventana_perfecto_defensa_ms = 70.0
+ventana_bien_defensa_ms = 160.0
+pausa_juguete_ms = 600.0

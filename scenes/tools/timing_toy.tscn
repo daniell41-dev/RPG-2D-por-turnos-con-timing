@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://scripts/tools/timing_toy.gd" id="1_toy"]
+[ext_resource type="Resource" path="res://resources/config/timing_config.tres" id="2_config"]
+
+[node name="TimingToy" type="Node2D"]
+script = ExtResource("1_toy")
+config = ExtResource("2_config")
